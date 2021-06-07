@@ -1,6 +1,6 @@
 {
-    "name": "vendor_slug/package_slug",
-    "description": ":package_description",
+    "name": "mehdiyaq/test",
+    "description": "learn-package",
     "keywords": [
         ":vendor_name",
         "package_slug"
@@ -9,13 +9,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "mehdi",
+            "email": "m@m.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "^8.0"
+        "php": "^7.4"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.17",
